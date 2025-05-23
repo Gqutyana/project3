@@ -1,7 +1,7 @@
 # project3
 
 ## Coding duties were distributed as following
-- Login page: Alungile
+- Login page: Ntombelanga
 - Sign up page: Ifeoma
 - Main page: Scelo
 - Order/Delivery tracking: Inam
